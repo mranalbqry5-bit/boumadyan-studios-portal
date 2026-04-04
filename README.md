@@ -1,3 +1,1 @@
-# Welcome to your Lovable project
-
-TODO: Document your project here
+221e11bd3cd61b53c2bff8282da6685689a316d5820e6a9e6c48d89a3b562bcb
